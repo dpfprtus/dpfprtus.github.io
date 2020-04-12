@@ -1,3 +1,7 @@
 # Team Nam:e : T2
-Member:lee uihyeong,mun heesang,hwang jiwon,choi suyong etc)(i dont know one tem member)
+Member:1.lee uihyeong
+       2.mun heesang
+       3.hwang jiwon
+       4.choi suyong 
+       5.i cant contat him.
 Class:Open Source Software Development

@@ -1,0 +1,4 @@
+my name is suyong choi
+grade:2
+major:software
+age:21

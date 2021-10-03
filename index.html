@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>TodoList</title>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="/src/css/style.css">
+  </head>
+
+  <body>
+   <div class="content"> 
+    <div class="clock">
+      <span></span><br>
+      <span></span>
+    </div>
+    <div class="user">
+      <h1>TodoList</h1>
+      <h2 id="greeting" class="hidden"></h2>
+    </div>
+    <div>
+      <form id="login_form" class="hidden">
+        <input type="text" placeholder="Write a your name." maxlength="20" required>
+      </form>
+    </div>
+    <div class="todo">
+      <form id="todo-form">
+        <input type="text" placeholder="Write a TODO" required>
+      </form>
+      <ul id="todo-list">
+        <span></span>
+      </ul>
+    </div>
+    </div>
+    
+    <script src="src/js/background.js"></script>
+    <script src="src/js/clock.js"></script>
+    <script src="src/js/greeting.js"></script>
+    <script src="src/js/todo.js"></script>
+  </body>
+</html>
